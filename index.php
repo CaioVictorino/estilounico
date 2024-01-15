@@ -2,7 +2,6 @@
 
 use Routes\Router;
 
-require_once "./autoload.php";
 require_once "./config.php";
 
 $uri = $_SERVER['REQUEST_URI'];
