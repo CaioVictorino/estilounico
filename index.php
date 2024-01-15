@@ -1,6 +1,6 @@
 <?php
 
-use Routes\Router;
+require "./routes/router.php";
 
 require_once "./config.php";
 
